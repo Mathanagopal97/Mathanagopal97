@@ -9,6 +9,7 @@
 Full-stack engineer and technical project lead in Chennai, India.<br>
 I untangle legacy systems, modernise the parts worth keeping, and delete the parts that are done.
 
+[Website](https://mathanagopal.in) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/mathanagopal-s) &nbsp;·&nbsp;
 [Email](mailto:contact@mathanagopal.in)
 
